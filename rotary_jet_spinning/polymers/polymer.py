@@ -10,4 +10,3 @@ class Polymer:
         self.density = float(deck.doc['Polymers']['Density'])
         self.viscosity = float(deck.doc['Polymers']['Viscosity'])
         self.surface_tension = float(deck.doc['Polymers']['Surface Tension'])
-    
