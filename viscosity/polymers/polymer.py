@@ -10,4 +10,3 @@ class Polymer:
         self.constantB = float(deck.doc['Polymers']['Constant B'])
         self.constantb = float(deck.doc['Polymers']['Constant b'])
         self.energy = float(deck.doc['Polymers']['Activation Energy'])
-    
